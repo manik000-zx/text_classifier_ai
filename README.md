@@ -1,4 +1,4 @@
-# Text Classifier AI Pro v2
+# Text Classifier AI 
 
 A Python-based AI project developed by **Manik** to classify text into different categories using a machine learning model.
 
